@@ -1,5 +1,4 @@
 import React, { createContext, useState } from 'react';
-import { GetApiData } from '../hook/GetApiData';
 
 export const FavoriteJobContext = createContext();
 
